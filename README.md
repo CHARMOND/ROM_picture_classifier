@@ -47,7 +47,7 @@ Po izvedbi vseh korakov boste dobili oceno natančnosti modela ter matriko zmede
 - Ustrezni slikovni podatki v mapah `Test_izbrane`, `Test_vse`, `Class_izbrane`, `Class_neizbrane`, `Validacija_izbrane`, `Validacija_zavrnjene`
 
 ## Povezava do Videoposnetka Predstavitve
-[Povezava do videoposnetka](https://link-do-tvojega-videoposnetka)
+[Povezava do videoposnetka](https://github.com/CHARMOND/ROM_picture_classifier/blob/main/Video.mp4)
 
 ## Avtor
 - **Aljaž Čarman**
