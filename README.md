@@ -52,7 +52,3 @@ Po izvedbi vseh korakov boste dobili oceno natančnosti modela ter matriko zmede
 ## Avtor
 - **Aljaž Čarman**
 - **@CHARMOND** https://github.com/CHARMOND 
-
----
-
-Z uporabo tega ReadMe dokumenta bodo uporabniki imeli jasna navodila za kloniranje repozitorija, namestitev potrebnih orodij, uvoz podatkov, treniranje modela in oceno njegove natančnosti.
