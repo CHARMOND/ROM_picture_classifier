@@ -1,5 +1,4 @@
 # Klasifikacija Fotografij Športnih Dogodkov
-Tukaj je primer ReadMe datoteke za GitHub repozitorij za ta projekt:
 
 
 ## Opis Projekta
@@ -20,11 +19,11 @@ Ta projekt je del seminarske naloge pri predmetu Računalniška orodja v matemat
    ```bash
    git clone https://github.com/tvoje_uporabniško_ime/klasifikacija-fotografij-športnih-dogodkov.git
    ```
-2. **Odprite Wolfram Mathematica**.
-3. **Odprite notebook `Seminarska2.nb`**.
+2. **Odpiranje Wolfram Mathematica**.
+3. **Odpiranje notebook `Seminarska2.nb`**.
 
 ## Navodila za Uporabo
-1. **Nastavite delovno mapo**:
+1. **Nastavitev delovno mapo**:
    Notebook je že nastavljen, da deluje z relativnimi potmi. Ko odprete notebook, bo delovna mapa samodejno nastavljena na lokacijo notebooka.
 
 2. **Uvoz slikovnih podatkov**:
